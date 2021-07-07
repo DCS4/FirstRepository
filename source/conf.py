@@ -33,7 +33,6 @@ release = 'v1'
 extensions = [
     "sphinx.ext.autodoc",
     'recommonmark',
-    'sphinx_markdown_tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
